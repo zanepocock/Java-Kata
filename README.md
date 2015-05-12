@@ -6,3 +6,5 @@ This repository represents the start of a collection of short programs in Java, 
 To implement next: all Katas found at the URL http://www.codingdojo.org/cgi-bin/index.pl?KataCatalogue
 
 A few handy Java screencasts can be found at: http://www.codekatas.org/casts/tagged/java
+
+Coding Bat Java (http://codingbat.com/java) has an amazing supply of practice excercises - it would be good to incorporate the best of these here. 
