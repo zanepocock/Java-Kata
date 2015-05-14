@@ -11,3 +11,7 @@ Coding Bat Java (http://codingbat.com/java) has an amazing supply of practice ex
 
 Long-term TODO: 
 - Sort into a training program. On one hand, this should classify groups of excercises that cover as many bases as possible in a certain amount of time, i.e. folders for "30 minute workout," "45 minute workout," and "One hour workout." On the other hand, it should also feature a marathon-like training schedule. I am undecided as to whether this should reference the set workouts, or have its own.
+
+- Incorporate Test Cases
+
+- Develop user interface and offer Kata as a software
