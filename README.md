@@ -15,3 +15,5 @@ Long-term TODO:
 - Incorporate Test Cases
 
 - Develop user interface and offer Kata as a software
+
+- Develop a similar Android Kata
