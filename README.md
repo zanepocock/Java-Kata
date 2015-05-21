@@ -9,6 +9,8 @@ A few handy Java screencasts can be found at: http://www.codekatas.org/casts/tag
 
 Coding Bat Java (http://codingbat.com/java) has an amazing supply of practice excercises - it would be good to incorporate the best of these here. 
 
+Another resource to look into is http://www.codewars.com/kata/latest
+
 Long-term TODO: 
 - Sort into a training program. On one hand, this should classify groups of excercises that cover as many bases as possible in a certain amount of time, i.e. folders for "30 minute workout," "45 minute workout," and "One hour workout." On the other hand, it should also feature a marathon-like training schedule. I am undecided as to whether this should reference the set workouts, or have its own.
 
